@@ -1,3 +1,6 @@
+body{
+  font-family: montserrat;
+}
 .texture{
 min-height: 100px;
 overflow: hidden;
@@ -102,4 +105,35 @@ margin-top:0px;
 #about{
   background-color: #ffffff;
   color: #000000;
+}
+#about p{
+  text-align:left;
+  padding:0 10px;
+  
+}
+#about ul{
+  text-align:left;
+}
+.event{
+  text-align:left;
+  background-color:rgb(126, 82, 82);
+  cursor: pointer;
+}
+#section1{
+  display:block;
+}
+#section2{
+  display:none;
+}
+#section3{
+  display:none;
+}
+#section4{
+  display:none;
+}
+#section5{
+  display:none;
+}
+#section6{
+  display:none;
 }
